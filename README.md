@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Marcoarielf
-- 👀 I’m interested in Web Design and web development
-- 🌱 I’m currently learning React-native
+- 👀 I’m Front end developer
 - 💞️ I’m looking to collaborate on web projects!
-- 📫 How to reach me marcoarielf96@gmail.com
+- 📫 How to reach me? marcoarielf96@gmail.com
