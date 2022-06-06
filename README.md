@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Marcoarielf
 - 👀 I’m Front end developer
-- 💞️ I’m looking to collaborate on web projects!
 - 📫 How to reach me? marcoarielf96@gmail.com
